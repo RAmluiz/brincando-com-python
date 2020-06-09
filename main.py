@@ -1,9 +1,17 @@
-empty_dic = {}
-d1 = {'a': "soma value", "b":[1,2,3,4]}
-d1
+import pandas as pd
+import numpy as np
 
 
+# empty_dic = {}
+# d1 = {'a': "soma value", "b":[1,2,3,4]}
+# d1
 
+# d2 = list[2525,23,365,65,25]
+
+# d3 = 4569987*2522
+# print(d3)
+
+#
 
 # print("Hello World")
 
